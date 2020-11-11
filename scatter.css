@@ -1,0 +1,29 @@
+#grandscatter{
+    background-color: aqua;
+}
+#scatter{
+    border: 2px solid black;
+}
+#scatter2{
+    border: 2px solid black;
+}
+#tooltip.hidden{
+ display:none;   
+}
+#tooltip{
+    position:absolute;
+    width:50;
+    height:auto;
+    padding:10px;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+    pointer-events: none;
+}
+.hidden1{
+    display: none;
+}
+
+.hidden2{
+    display:none;
+}
